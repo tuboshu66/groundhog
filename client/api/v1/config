@@ -1,0 +1,25 @@
+{
+  "key": "staff_groundhog",
+  "target": 5,
+  "email": "",
+  "tg": "",
+  "crisp": "",
+  "loginless": 0,
+  "loginless_link": "",
+  "code_login": 0,
+  "code_register": 0,
+  "captcha_login": 1,
+  "captcha_register": 1,
+  "captcha_checkin": 1,
+  "notice": 2,
+  "checkin": 1,
+  "line_flag_regex": "",
+  "line_exclude_loc": 1,
+  "payment_config": {
+    "Alipay": "6",
+    "Wechat": "6"
+  },
+  "hosts": [
+    "https://tuboshu.live/"
+  ]
+}
